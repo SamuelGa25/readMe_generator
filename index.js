@@ -32,34 +32,29 @@ const questions = [
         name:"installation"
     },{
         //usage
-        type:"input",
-        message:"How is the app used?",
-        name: "usage"
+        type: 'checkbox',
+        name: 'Languages',
+        message: 'What did you build this project with? (Check all that apply)',
+        choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
     },{
         //
-        type: "", 
-        message: "",
-        name:""
+        type: 'input',
+        name: 'contribution',
+        message: 'What is your name?'
+    },{
+        type: 'input',
+        name: 'github',
+        message: 'Enter your GitHub Username'
     },{
         //
-        type: "", 
-        message: "",
-        name:""
+        type: 'input',
+        name: 'Email',
+        message: 'What is you Email address?. (Required)'
     },{
         //
-        type: "", 
-        message: "",
-        name:""
-    },{
-        //
-        type: "", 
-        message: "",
-        name:""
-    },{
-        //
-        type: "", 
-        message: "",
-        name:""
+        type: 'input',
+        name: 'link',
+        message: 'Enter the GitHub link to your project. (Required)'
     }
 
 
@@ -70,15 +65,25 @@ function writeToFile(fileName, data) {
 
     fs.writeFile(fileName, data, function(err){
         console.log(fileName);
-        console.log(name);
-        
+        console.log(data);
+
+        if (err){
+            return console.log(err);
+        }else{
+            console.log("completed!")
+        }
     })
 }
 
-
-
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions)
+    .then(function(data){
+        //writing on the read.me file.
+        writeToFile("README.md", generateMarkdown(data));
+        console.log(data);
+    })
 
+}
 // Function call to initialize app
 init();
