@@ -3,10 +3,6 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ## License
-  Project is licensed under
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -28,6 +24,9 @@ function generateMarkdown(data) {
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: [${data.email}]
 
+  ## License
+  Project is licensed under
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 `;
 }

@@ -1,9 +1,5 @@
 # ReadMe generator
 
-  ## License
-  Project is licensed under 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -12,9 +8,9 @@
   - [Contact Info](#contact-info)
 
   ## Description
-  A readMe generator so THAT I can quickly create a professional README for a new project
+  As a developer I can create a professional readMe for a new project
   ## Installation
-  install node, inquirer and npm init
+  node, index.js, inquirer
   ## Builth With
   JavaScript,ES6,Node
   ## Contribution 
@@ -25,4 +21,7 @@
   - Github: [samuelga25/readme_generator](https://github.com/samuelga25/readme_generator)
   - Email: [samuelgarenas@gmail.com]
 
+  ## License
+  Project is licensed under
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
