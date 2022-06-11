@@ -1,7 +1,7 @@
 # ReadMe generator
 
   ## License
-  Project is licensed under the undefined license
+  Project is licensed under 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
