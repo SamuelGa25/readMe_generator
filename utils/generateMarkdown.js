@@ -7,12 +7,12 @@ function generateMarkdown(data) {
   Project is licensed under the ${data.license} license
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ##Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Languages](#languages)
-  -[Contribution](#contribution)
-  -[Contact Info](#contact-info)
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Languages](#languages)
+  - [Contribution](#contribution)
+  - [Contact Info](#contact-info)
 
   ## Description
   ${data.description}
@@ -20,22 +20,13 @@ function generateMarkdown(data) {
   ${data.installation}
   ## Builth With
   ${data.languages}
-  ## contribution 
+  ## Contribution 
   ${data.contribution}
 
-  ##Contact Information:
-  
-
-
-
-
-
-
-
-
-
-
-
+  ## Contact Information:
+  - UserName: [${data.username}]
+  - Github: [${data.github}](https://github.com/${data.github})
+  - Email: [${data.email}]
 
 
 `;

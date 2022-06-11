@@ -13,13 +13,13 @@ const questions = [
     {
         type: "input", 
         message: "What is the name of the project?",
-        name: "Title"
+        name: "title"
 
     },{
       //description of project  
         type: "input",
         message: "What is the project about?",
-        name: "Description"
+        name: "description"
     },{
         //table of contents 
         type:"input",
@@ -28,32 +28,32 @@ const questions = [
     },{
         //Install
         type:"input",
-        message:"What does the user needs to install to run the app?",
+        message:"In order to run it, what do we install?",
         name:"installation"
     },{
         //usage
         type: 'checkbox',
-        name: 'Languages',
+        name: 'languages',
         message: 'What did you build this project with? (Check all that apply)',
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
     },{
         //
         type: 'input',
         name: 'contribution',
-        message: 'What is your name?'
+        message: 'What is your name and lastname?'
     },{
         type: 'input',
-        name: 'github',
+        name: 'username',
         message: 'Enter your GitHub Username'
     },{
         //
         type: 'input',
-        name: 'Email',
+        name: 'email',
         message: 'What is you Email address?. (Required)'
     },{
         //
         type: 'input',
-        name: 'link',
+        name: 'github',
         message: 'Enter the GitHub link to your project. (Required)'
     }
 
