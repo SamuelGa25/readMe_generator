@@ -14,7 +14,7 @@ function generateMarkdown(data) {
   ${data.description}
   ## Installation
   ${data.installation}
-  ## Builth With
+  ## Built With
   ${data.languages}
   ## Contribution 
   ${data.contribution}

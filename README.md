@@ -10,8 +10,8 @@
   ## Description
   As a developer I can create a professional readMe for a new project
   ## Installation
-  node, index.js, inquirer
-  ## Builth With
+  install inquirer, fs, run it on ternminal 
+  ## Built With
   JavaScript,ES6,Node
   ## Contribution 
   Samuel Garcia

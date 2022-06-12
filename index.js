@@ -28,7 +28,7 @@ const questions = [
     },{
         //Install
         type:"input",
-        message:"In order to run it, what do we install?",
+        message:"In order to run it, What do we do?",
         name:"installation"
     },{
         //usage
