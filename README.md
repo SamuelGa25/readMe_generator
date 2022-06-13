@@ -22,7 +22,7 @@
   - Email: [samuelgarenas@gmail.com]
 
   ## Mock-Up Sample 
-  [Screen Shot 2022-06-11 at 9.16.09 PM-1.png](https://courses.bootcampspot.com/users/16622/files/1846476?verifier=GLGr4oNqhJmAKNIqpy8ajwF8N7jwKnS9gdN8gOF7&wrap=1)
+  <img width="621" alt="Screen Shot 2022-06-11 at 9 16 09 PM" src="https://user-images.githubusercontent.com/100814742/173288783-9055b342-ca2d-4df2-99c4-56e5cfed941d.png">
   
   ## Walkthrough Video
   [video1721208293.mp4](https://courses.bootcampspot.com/media_objects_iframe/m-5UntybAMGhrVhwinSZ5UduA56aFrdKFX?type=video)
