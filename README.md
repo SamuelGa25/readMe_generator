@@ -25,7 +25,7 @@
   <img width="621" alt="Screen Shot 2022-06-11 at 9 16 09 PM" src="https://user-images.githubusercontent.com/100814742/173288783-9055b342-ca2d-4df2-99c4-56e5cfed941d.png">
   
   ## Walkthrough Video
-  [video1721208293.mp4](https://courses.bootcampspot.com/media_objects_iframe/m-5UntybAMGhrVhwinSZ5UduA56aFrdKFX?type=video)
+  [videoWalkthrough.mp4.zip](https://github.com/SamuelGa25/readMe_generator/files/8888514/videoWalkthrough.mp4.zip)
 
   ## License
   Project is licensed under
