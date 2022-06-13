@@ -21,6 +21,12 @@
   - Github: [samuelga25/readme_generator](https://github.com/samuelga25/readme_generator)
   - Email: [samuel@gmail.com]
 
+  ## Mock-Up Sample 
+  <img width="621" alt="Screen Shot 2022-06-11 at 9 16 09 PM" src="https://user-images.githubusercontent.com/100814742/173288783-9055b342-ca2d-4df2-99c4-56e5cfed941d.png">
+  
+  ## Walkthrough Video
+  [video1721208293.mp4](https://courses.bootcampspot.com/media_objects_iframe/m-5UntybAMGhrVhwinSZ5UduA56aFrdKFX?type=video)
+
   ## License
   Project is licensed under
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
