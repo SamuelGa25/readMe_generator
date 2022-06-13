@@ -21,6 +21,12 @@
   - Github: [samuelga25/readme_generator](https://github.com/samuelga25/readme_generator)
   - Email: [samuelgarenas@gmail.com]
 
+  ## Mock-Up Sample 
+  Screen Shot 2022-06-11 at 9.16.09 PM-1.png
+  
+  ## Walkthrough Video
+  video1721208293.mp4
+
   ## License
   Project is licensed under
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
