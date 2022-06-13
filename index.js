@@ -1,7 +1,9 @@
  // TODO: Include packages needed for this application
 
 const inquirer = require('inquirer'); //requires the nmp package including modules
-const fs = require('fs');
+
+const fs = require('fs'); //it requires the fs in order to run
+
 const generateMarkdown = require('./utils/generateMarkdown');
 
 console.log("Welcome to the README generator!");
@@ -21,11 +23,6 @@ const questions = [
         message: "What is the project about?",
         name: "description"
     },{
-        //table of contents 
-        type:"input",
-        message:"Table of content",
-        name:"Table of Content"
-    },{
         //Install
         type:"input",
         message:"In order to run it, What do we do?",
@@ -44,12 +41,12 @@ const questions = [
     },{
         type: 'input',
         name: 'username',
-        message: 'Enter your GitHub Username'
+        message: 'What is your Github username?'
     },{
         //
         type: 'input',
         name: 'email',
-        message: 'What is you Email address?. (Required)'
+        message: 'What is you Email address? (Required)'
     },{
         //
         type: 'input',

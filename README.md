@@ -1,4 +1,4 @@
-# ReadMe generator
+# readMe generator
 
   ## Table of Contents
   - [Description](#description)
@@ -10,16 +10,16 @@
   ## Description
   As a developer I can create a professional readMe for a new project
   ## Installation
-  install inquirer, fs, run it on ternminal 
+  install inquirer, node, run it on terminal
   ## Built With
   JavaScript,ES6,Node
   ## Contribution 
-  Samuel Garcia
+  Samuel Garcia 
 
   ## Contact Information:
   - UserName: [samuelga25]
   - Github: [samuelga25/readme_generator](https://github.com/samuelga25/readme_generator)
-  - Email: [samuelgarenas@gmail.com]
+  - Email: [samuel@gmail.com]
 
   ## License
   Project is licensed under
